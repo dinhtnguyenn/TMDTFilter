@@ -1,0 +1,20 @@
+﻿@model WebApplication6.Helpers.SearchParameters
+
+<div>
+    @foreach (var item in Model.Company)
+    {
+        <input name="Company[]" type="checkbox" value="@item" />
+        @Html.Label(item);
+        <b>&nbsp;</b>
+    }
+</div>
+<br />
+<div>
+    @foreach (var item in Model.CPU)
+    {
+        <input name="CPU[]" type="checkbox" value="@item" />
+        @Html.Label(item);
+        <b>&nbsp;</b>
+    }
+</div>
+</br>

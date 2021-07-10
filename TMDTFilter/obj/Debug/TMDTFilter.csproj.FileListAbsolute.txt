@@ -1,0 +1,362 @@
+D:\Research\TMDTFilter\TMDTFilter\bin\ApplicationInsights.config
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\csc.exe
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\System.Collections.Immutable.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\System.Reflection.Metadata.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\vbc.exe
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\VBCSCompiler.exe
+D:\Research\TMDTFilter\TMDTFilter\bin\roslyn\VBCSCompiler.exe.config
+D:\Research\TMDTFilter\TMDTFilter\bin\TMDTFilter.dll.config
+D:\Research\TMDTFilter\TMDTFilter\bin\TMDTFilter.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\TMDTFilter.pdb
+D:\Research\TMDTFilter\TMDTFilter\bin\Antlr3.Runtime.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\EntityFramework.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\EntityFramework.SqlServer.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.DependencyCollector.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Web.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.WindowsServer.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.ApplicationInsights.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Google.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Web.Infrastructure.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Newtonsoft.Json.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Owin.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Helpers.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Mvc.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Optimization.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Razor.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Deployment.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Razor.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\WebGrease.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.DependencyCollector.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Web.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AI.WindowsServer.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.ApplicationInsights.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Helpers.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Mvc.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Optimization.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Razor.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Deployment.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Razor.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Antlr3.Runtime.pdb
+D:\Research\TMDTFilter\TMDTFilter\bin\Newtonsoft.Json.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\EntityFramework.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\EntityFramework.SqlServer.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Google.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Research\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csprojResolveAssemblyReference.cache
+D:\Research\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.dll
+D:\Research\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.pdb
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Net.Http.Formatting.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Http.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Http.WebHost.dll
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Net.Http.Formatting.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Http.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\System.Web.Http.WebHost.xml
+D:\Research\TMDTFilter\TMDTFilter\bin\PredicateExtensions.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\ApplicationInsights.config
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\csc.exe
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\System.Collections.Immutable.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\System.Reflection.Metadata.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\vbc.exe
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\VBCSCompiler.exe
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\roslyn\VBCSCompiler.exe.config
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\TMDTFilter.dll.config
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\TMDTFilter.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\TMDTFilter.pdb
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Antlr3.Runtime.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\EntityFramework.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\EntityFramework.SqlServer.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.DependencyCollector.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Web.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.WindowsServer.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.ApplicationInsights.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Google.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Web.Infrastructure.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Newtonsoft.Json.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Owin.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\PredicateExtensions.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Net.Http.Formatting.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Helpers.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Http.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Http.WebHost.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Mvc.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Optimization.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Razor.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Deployment.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Razor.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\WebGrease.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.DependencyCollector.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Web.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AI.WindowsServer.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.ApplicationInsights.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Net.Http.Formatting.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Http.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Http.WebHost.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Helpers.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Mvc.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Optimization.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.Razor.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Deployment.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Razor.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Antlr3.Runtime.pdb
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Newtonsoft.Json.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\EntityFramework.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\EntityFramework.SqlServer.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Google.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csprojAssemblyReference.cache
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csproj.CoreCompileInputs.cache
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csproj.CopyComplete
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.pdb
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\ApplicationInsights.config
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\csc.exe
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\System.Collections.Immutable.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\System.Reflection.Metadata.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\vbc.exe
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\VBCSCompiler.exe
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\roslyn\VBCSCompiler.exe.config
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\TMDTFilter.dll.config
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\TMDTFilter.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\TMDTFilter.pdb
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Antlr3.Runtime.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\EntityFramework.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\EntityFramework.SqlServer.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.DependencyCollector.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Web.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.WindowsServer.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.ApplicationInsights.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Google.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Web.Infrastructure.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Newtonsoft.Json.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Owin.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\PredicateExtensions.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Net.Http.Formatting.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Helpers.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Http.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Http.WebHost.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Mvc.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Optimization.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Razor.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Deployment.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Razor.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\WebGrease.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.DependencyCollector.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Web.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AI.WindowsServer.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.ApplicationInsights.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Net.Http.Formatting.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Http.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Http.WebHost.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Helpers.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Mvc.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Optimization.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.Razor.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Deployment.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Razor.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Antlr3.Runtime.pdb
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Newtonsoft.Json.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\EntityFramework.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\EntityFramework.SqlServer.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Google.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csprojAssemblyReference.cache
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csproj.CoreCompileInputs.cache
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csproj.CopyComplete
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.dll
+D:\GVTG-HUTECH\Result\Thuong Mai Dien Tu\Lab05_New\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.pdb
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\ApplicationInsights.config
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\csc.exe
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\vbc.exe
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\VBCSCompiler.exe
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\TMDTFilter.dll.config
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\TMDTFilter.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\TMDTFilter.pdb
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Antlr3.Runtime.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\EntityFramework.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\EntityFramework.SqlServer.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Web.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Newtonsoft.Json.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Owin.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\PredicateExtensions.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Net.Http.Formatting.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Helpers.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Http.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Http.WebHost.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Mvc.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Optimization.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Razor.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Razor.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\WebGrease.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.Web.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Net.Http.Formatting.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Http.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Http.WebHost.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Helpers.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Mvc.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Optimization.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.Razor.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\System.Web.WebPages.Razor.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Antlr3.Runtime.pdb
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Newtonsoft.Json.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\EntityFramework.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\EntityFramework.SqlServer.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csproj.AssemblyReference.cache
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csproj.CoreCompileInputs.cache
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.csproj.CopyComplete
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.dll
+C:\Users\DinhNguyen\Desktop\TMDTFilter\TMDTFilter\obj\Debug\TMDTFilter.pdb

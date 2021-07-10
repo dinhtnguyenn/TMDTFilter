@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@{Html.RenderAction("GetSearchFilter", "Home"); }
+<br />
+
+<input type="button" name="name" onclick="find();" value="Assign" />
+<ul id="laptop"></ul>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $(document).ready(function () {
+        find();
+    });
+function formatItem(item) {
+    return item.Product + ':' + item.ScreenResolution + ":" + item.Cpu;
+}
+function find() {
+
+    $('#laptop').text('');
+
+    var model = {};
+
+    model.Company = [];
+    $("input[name='Company[]']:checked").each(function () {
+        model.Company.push($(this).val());
+    });
+
+    model.CPU = [];
+    $("input[name='CPU[]']:checked").each(function () {
+        model.CPU.push($(this).val());
+    });
+
+    $.ajax({
+        type: "POST",
+        data: JSON.stringify(model),
+        url: "../../api/LaptopAPI/Search",
+        contentType: "application/json"
+    }).done(function (data) {
+        $.each(data, function (key, item) {
+            $('<li>', { text: formatItem(item) }).appendTo($('#laptop'));
+         });
+    }).fail(function (jqXHR, textStatus, err) {
+            $('#laptop').text('HIHIHI:' + err);
+    });
+}
+</script>
